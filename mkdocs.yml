@@ -1,6 +1,9 @@
 site_name: Eric Quintane
 site_url: https://www.quintane.net
+site_description: Personal website of Eric Quintane
 theme:
   name: mkdocs
 nav:
   - Home: index.md
+extra_css:
+  - stylesheets/extra.css
