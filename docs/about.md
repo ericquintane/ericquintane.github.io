@@ -1,6 +1,5 @@
 <div class="page-intro">
-  <p class="section-kicker">Biography</p>
-  <h1>About</h1>
+  <h1>Eric Quintane</h1>
   <p class="page-intro__lead">
     Eric Quintane is an Associate Professor of Organizational Behavior at ESMT
     Berlin and an Honorary Research Fellow in the School of Psychological
@@ -10,7 +9,7 @@
 
 <div class="detail-grid">
   <section class="detail-card detail-card--wide">
-    <h2>Research profile</h2>
+    <h2>Biography</h2>
     <p>
       My research focuses on the dynamics of interpersonal networks and their
       consequences for individuals and organizations. I study how relationships
@@ -34,20 +33,20 @@
     </ul>
   </section>
   <section class="detail-card">
-    <h2>Education</h2>
-    <ul class="clean-list">
-      <li>PhD in Management, University of Melbourne</li>
-      <li>MBA, Helsinki School of Economics and Business Administration</li>
-      <li>MSc, Toulouse Business School</li>
-    </ul>
-  </section>
-  <section class="detail-card">
     <h2>Research interests</h2>
     <ul class="clean-list">
       <li>Interpersonal networks and social capital</li>
       <li>Organizational behavior and organizational design</li>
       <li>Creativity, collaboration, and burnout</li>
       <li>Temporal network methods and relational event models</li>
+    </ul>
+  </section>
+  <section class="detail-card">
+    <h2>Education</h2>
+    <ul class="clean-list">
+      <li>PhD in Management, University of Melbourne</li>
+      <li>MBA, Helsinki School of Economics and Business Administration</li>
+      <li>MSc, Toulouse Business School</li>
     </ul>
   </section>
   <section class="detail-card">

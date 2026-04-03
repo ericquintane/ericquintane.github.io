@@ -1,5 +1,4 @@
 <div class="page-intro">
-  <p class="section-kicker">Research and publications</p>
   <h1>Research papers</h1>
   <p class="page-intro__lead">
     My research examines interpersonal networks, brokerage, creativity,

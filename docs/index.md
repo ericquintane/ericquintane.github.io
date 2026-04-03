@@ -1,7 +1,6 @@
 <div class="home-hero">
   <div class="home-hero__content">
-    <p class="section-kicker">Eric Quintane</p>
-    <h1>How workplace networks shape creativity, collaboration, and burnout</h1>
+    <h1>Interpersonal networks and the social structure of work.</h1>
     <p class="lead">
       I am an Associate Professor of Organizational Behavior at ESMT Berlin.
       My research examines how interpersonal networks shape performance,
@@ -33,7 +32,7 @@
 <div class="home-section home-section--split">
   <section class="section-panel">
     <p class="section-kicker">About</p>
-    <h2>Research with a structural lens on organizations</h2>
+    <h2>A structural lens on organizations</h2>
     <p>
       I study the dynamics of interpersonal networks and their consequences for
       individuals and organizations. My work sits at the intersection of
@@ -81,7 +80,7 @@
   <div class="section-header">
     <div>
       <p class="section-kicker">Featured research</p>
-      <h2>Selected recent papers</h2>
+      <h2>Selected publications</h2>
     </div>
     <a class="section-link" href="/research/">View all publications</a>
   </div>
@@ -122,7 +121,7 @@
   <div class="section-header">
     <div>
       <p class="section-kicker">Teaching and public-facing work</p>
-      <h2>Scholarship in the classroom and beyond</h2>
+      <h2>Teaching and public work</h2>
     </div>
   </div>
   <div class="practice-grid">

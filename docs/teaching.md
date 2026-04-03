@@ -1,5 +1,4 @@
 <div class="page-intro">
-  <p class="section-kicker">Teaching</p>
   <h1>Courses on organizations, networks, and change</h1>
   <p class="page-intro__lead">
     My teaching spans organizational behavior, organizational theory, social

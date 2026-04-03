@@ -1,10 +1,10 @@
 site_name: Eric Quintane
 site_url: https://www.quintane.net
 site_description: Personal website of Eric Quintane
+not_in_nav: index.md
 theme:
   name: mkdocs
 nav:
-  - Home: index.md
   - About: about.md
   - Research: research.md
   - Teaching: teaching.md
