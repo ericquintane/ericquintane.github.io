@@ -1,15 +1,37 @@
-# Research Papers
+<div class="page-intro">
+  <p class="section-kicker">Research and publications</p>
+  <h1>Research papers</h1>
+  <p class="page-intro__lead">
+    My research examines interpersonal networks, brokerage, creativity,
+    collaboration, burnout, and the methods we use to study organizational
+    processes over time.
+  </p>
+</div>
 
 <div class="research-note">
   <p>
-    This page lists peer-reviewed journal articles in inverse chronological
-    order, with the most recent work first.
-    When a legal repository copy is publicly available, I link it as a
-    repository version; otherwise I link the official article page. Coauthor
-    links point to Google Scholar search pages so they remain stable even when
-    authors do not maintain a public profile. The abstracts below are concise
-    summaries rather than verbatim publisher abstracts.
+    This archive lists peer-reviewed journal articles in inverse chronological
+    order, with the most recent work first. When a legal repository copy is
+    publicly available, I link it alongside the official article page. Coauthor
+    links point to stable Google Scholar searches, and the abstract notes below
+    are concise summaries rather than publisher abstracts.
   </p>
+</div>
+
+<div class="research-jump">
+  <a href="#2025">2025</a>
+  <a href="#2023">2023</a>
+  <a href="#2022">2022</a>
+  <a href="#2021">2021</a>
+  <a href="#2020">2020</a>
+  <a href="#2019">2019</a>
+  <a href="#2018">2018</a>
+  <a href="#2017">2017</a>
+  <a href="#2016">2016</a>
+  <a href="#2015">2015</a>
+  <a href="#2014">2014</a>
+  <a href="#2013">2013</a>
+  <a href="#2011">2011</a>
 </div>
 
 ## 2025
