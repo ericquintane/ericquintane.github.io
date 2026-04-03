@@ -33,4 +33,11 @@ This was done with:
 rsync -a site/ ./
 ```
 
-If GitHub Pages is later switched in repository settings to deploy from `GitHub Actions`, the committed root build artifacts can be removed and the workflow can become the single deployment path.
+## Switching To GitHub Actions
+
+The repository is ready for GitHub Pages deployment via Actions, but the source still needs to be changed in GitHub:
+
+1. Open `Settings -> Pages` in the GitHub repository.
+2. Under `Build and deployment`, set `Source` to `GitHub Actions`.
+3. Keep the custom domain set to `www.quintane.net`.
+4. After the first successful Actions deployment, the committed root build artifacts can be removed and the workflow can become the single deployment path.
