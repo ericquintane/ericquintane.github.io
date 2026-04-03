@@ -1,14 +1,12 @@
 <div class="hero">
   <div class="hero-copy">
     <p class="eyebrow">Eric Quintane</p>
-    <h1>Researching how networks shape work, leadership, and well-being.</h1>
     <p class="lead">
       I am an Associate Professor of Organizational Behavior at ESMT Berlin.
       My research examines how interpersonal networks influence outcomes such as
       creativity, collaboration, and burnout.
     </p>
     <div class="profile-links">
-      <a class="profile-button" href="research/">Research Papers</a>
       <a class="profile-button" href="https://scholar.google.es/citations?user=6nmj8sAAAAJ" target="_blank" rel="noreferrer">Google Scholar</a>
       <a class="profile-button" href="https://de.linkedin.com/in/eric-quintane" target="_blank" rel="noreferrer">LinkedIn</a>
       <a class="profile-button" href="https://esmt.berlin/person/eric-quintane" target="_blank" rel="noreferrer">ESMT Profile</a>
@@ -35,8 +33,8 @@ University of Melbourne. My recent TEDxESMTBerlin talk, <a href="https://www.ted
     <h3>Research</h3>
     <p>
       Networks, organizational behavior, organizational design, and social
-      capital. Visit the Research Papers page for publication summaries and
-      links.
+      capital. <a class="inline-card-link" href="research/">Research</a>
+      includes publication summaries and links.
     </p>
   </section>
   <section class="info-card">

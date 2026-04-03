@@ -123,6 +123,16 @@ a {
   line-height: 1.7;
 }
 
+.inline-card-link {
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.inline-card-link:hover,
+.inline-card-link:focus {
+  text-decoration: underline;
+}
+
 .research-note {
   margin: 1.25rem 0 2rem;
   padding: 1rem 1.15rem;
