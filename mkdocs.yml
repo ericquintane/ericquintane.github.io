@@ -5,5 +5,6 @@ theme:
   name: mkdocs
 nav:
   - Home: index.md
+  - Research Papers: research.md
 extra_css:
   - stylesheets/extra.css

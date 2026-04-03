@@ -123,6 +123,51 @@ a {
   line-height: 1.7;
 }
 
+.research-note {
+  margin: 1.25rem 0 2rem;
+  padding: 1rem 1.15rem;
+  background: rgba(255, 253, 248, 0.92);
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  box-shadow: 0 10px 24px rgba(22, 48, 43, 0.05);
+}
+
+.research-note p {
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.75;
+}
+
+.md-typeset h2 {
+  margin-top: 2.4rem;
+}
+
+.md-typeset h3 {
+  margin-bottom: 0.45rem;
+}
+
+.md-typeset details {
+  margin: 0.9rem 0 1.4rem;
+  padding: 0.9rem 1rem;
+  background: rgba(255, 253, 248, 0.86);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+}
+
+.md-typeset details summary {
+  cursor: pointer;
+  color: var(--accent);
+  font-weight: 700;
+}
+
+.md-typeset details[open] {
+  box-shadow: 0 8px 20px rgba(22, 48, 43, 0.05);
+}
+
+.md-typeset details > :last-child {
+  margin-bottom: 0;
+}
+
 @media (max-width: 900px) {
   .hero {
     grid-template-columns: 1fr;
