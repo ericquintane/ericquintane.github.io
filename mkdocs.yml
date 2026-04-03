@@ -1,0 +1,6 @@
+site_name: Eric Quintane
+site_url: https://www.quintane.net
+theme:
+  name: mkdocs
+nav:
+  - Home: index.md
